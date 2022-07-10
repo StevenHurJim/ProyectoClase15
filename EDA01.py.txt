@@ -5,3 +5,9 @@
 
 # Los temas a tratar en esta evaluacion
 # son los desarrollados en clase
+
+import math as m 
+import random as rnd 
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import seaborn as sns
