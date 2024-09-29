@@ -1,8 +1,4 @@
 
-# Esto es un comentario en python
-# El dia de mañana (10 de julio del 2022 -7:00pm) es la evaluacion
-# y con eso cerramos el modulo1.
-
 # Los temas a tratar en esta evaluacion
 # son los desarrollados en clase
 
